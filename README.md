@@ -2,7 +2,7 @@
 
     <img src="https://profile-counter.glitch.me/20Sunny/count.svg" />   
 
-in 'src' paste your visitior count image link<br>
+In 'src' paste your visitior count image link<br>
 
 Created by Sunny Sharma only for Edu. and fun purpose do not use it in wrong way<br>
 
