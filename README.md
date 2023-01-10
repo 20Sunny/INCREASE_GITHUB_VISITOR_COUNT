@@ -6,7 +6,6 @@ In 'src' paste your visitior count image link<br>
 
 Created by Sunny Sharma only for Edu. and fun purpose do not use it in wrong way<br>
 
-
 Step 1 :  Download this zip file and extract it <br>
 Step 2 :  open view.html in code editior<br>
 Step 3 :  change <img> src to your visitior count image link<br>
